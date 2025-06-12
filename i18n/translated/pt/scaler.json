@@ -6,7 +6,7 @@
     "survey.meters-survey-description": "Uma pesquisa para coletar\/editar detalhes de medidores e consumo de energia, água e resíduos.",
     "surveys.invalid-value-for-field": "Valor inválido :value fornecido para o campo: :field",
     "solar_ready": "Preparado para Energia Solar",
-    "i_portal.eet": "EET",
+    "i_portal.eet": "Translated",
     "i_portal.not_allowed": "O campo \":field\" não é permitido",
     "i_portal.date": "O campo \":field\" deve ser uma data válida",
     "i_portal.before": "O campo \":field\" deve ser antes do campo \":other_field\"",
